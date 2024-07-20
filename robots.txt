@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rsonewedg.github.io/sitemap
+Sitemap: https://rsonewedg.github.io/app/sitemap
+Sitemap: https://rsonewedg.github.io/assets/sitemap
+Sitemap: https://rsonewedg.github.io/css/sitemap
+Sitemap: https://rsonewedg.github.io/includes/sitemap
+Sitemap: https://rsonewedg.github.io/item/sitemap
+Sitemap: https://rsonewedg.github.io/src/sitemap
